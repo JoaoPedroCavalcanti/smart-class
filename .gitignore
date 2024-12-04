@@ -59,3 +59,7 @@ coverage/
 
 # Excluir arquivos específicos gerados em 'lib' ou pastas similares
 lib/**/*.d.ts
+
+
+# Ignorar os arquivos do banco
+tmp/app.db
