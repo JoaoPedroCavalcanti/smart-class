@@ -62,4 +62,4 @@ lib/**/*.d.ts
 
 
 # Ignorar os arquivos do banco
-tmp/app.db
+db/app.db
